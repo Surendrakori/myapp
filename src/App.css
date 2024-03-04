@@ -1,0 +1,24 @@
+.App-header {
+  background-color: #282c34; 
+  color: white;
+  height:130px;
+  align-items:center;
+}
+.Container{
+  display:flex;
+  flex-direction: row;
+  justify-content:space-around;
+  align-items: center;
+  text-align: center;
+}
+.b1 , .b2 {
+  height: 350px;
+  width:500px;
+  margin-top: 50px;
+  border: 1px solid black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  
+}

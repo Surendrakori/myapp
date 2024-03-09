@@ -2,7 +2,7 @@ import React from 'react'
 import './Niloufer.css'
 import './ChaiCup.jpg'
 
-export default function Niloufer(props) {
+export default function Niloufer() {
     const items=[
         {id:1,Name : "Chai" ,Image:'./ChaiCup.jpg',price:100},
         {id:2,Name : "Muska Bun" ,Image:"MuskaBun.jpg",price:100},

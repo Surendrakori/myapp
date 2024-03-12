@@ -5,7 +5,8 @@ export default function App19() {
     <div>
         <App19child>
             <h1>Hello World</h1>
-            <p>This is surendra</p>
+            <p>This is Chitti the robot</p>
+            <p>Memory :1 giga byte and speed 1 zeta byte </p>
         </App19child>
     </div>
   )
